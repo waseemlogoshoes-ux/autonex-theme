@@ -1,0 +1,124 @@
+{
+  "sections": {
+    "text_and_image_ayMeBD": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/1665214760813_ac69452c-adc5-465c-938c-9dc75f329a44.webp",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>At <strong>LOGO</strong>, we\u2019re redefining<br/>luxury footwear, combining comfort, craftsmanship, and cutting-edge design to<br/>make high-end fashion accessible to all.</p><p>Behind every step is a team of<br/>passionate, creative minds driving innovation and excellence. If you're ready<br/>to bring your talent to a brand that values bold ideas and quality without<br/>compromise, we\u2019d love to have you on our journey.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": true,
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
+    "scrolling_text_Hqp3VX": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "Join Our Team",
+        "link": "",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 170
+      }
+    },
+    "rich_text_bMwLNP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EYwcRn": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_y3x4Aw": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h6>We are an innovative footwear brand, always striving to develop new and creative ways to meet the ever-changing demands of the modern market.</h6>"
+          }
+        },
+        "text_4Hkk7d": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<h3><strong>Join us and help shape the future of luxury!</strong></h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EYwcRn",
+        "text_y3x4Aw",
+        "text_4Hkk7d"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "scrolling_text_E3z3VE": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "settings": {
+        "text": "Pakistan\u2019s leading luxury footwear brand with an empowered sense of glamour",
+        "link": "",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 170
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "faq_KrBtGd": {
+      "type": "faq",
+      "blocks": {
+        "question_XDQebj": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_cxFi4i": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_XDQebj",
+        "question_cxFi4i"
+      ],
+      "disabled": true,
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "title": "EXPLORE OUR JOB OPPORTUNITIES"
+      }
+    }
+  },
+  "order": [
+    "text_and_image_ayMeBD",
+    "scrolling_text_Hqp3VX",
+    "rich_text_bMwLNP",
+    "scrolling_text_E3z3VE",
+    "main",
+    "faq_KrBtGd"
+  ]
+}

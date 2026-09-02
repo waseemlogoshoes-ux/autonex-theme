@@ -1,0 +1,30 @@
+{
+  "sections": {
+    "hero_video_zc9fxe": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/9c6e357e4d7b4f31bee39d7e1085aca5.mp4",
+        "overlay_opacity": 0,
+        "section_height": "100vh",
+        "mobile_height": "100vh"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    }
+  },
+  "order": [
+    "hero_video_zc9fxe",
+    "main"
+  ]
+}

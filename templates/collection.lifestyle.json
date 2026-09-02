@@ -1,0 +1,166 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": false,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    },
+    "featured_product_iwVkAT": {
+      "type": "featured-product",
+      "blocks": {
+        "price_TdEPYP": {
+          "type": "price",
+          "settings": {}
+        },
+        "description_yrWLTq": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_XjBmVz": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_m7xmFr": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "price_TdEPYP",
+        "description_yrWLTq",
+        "variant_picker_XjBmVz",
+        "buy_buttons_m7xmFr"
+      ],
+      "disabled": true,
+      "name": "t:sections.featured-product.presets.featured_product.name",
+      "settings": {
+        "featured_product": "sb1000-mix",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "hero_video_PKVLtQ": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-left",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/9c6e357e4d7b4f31bee39d7e1085aca5.mp4",
+        "overlay_opacity": 0,
+        "section_height": "750px",
+        "mobile_height": "100vh"
+      }
+    },
+    "slideshow_hptLMY": {
+      "type": "slideshow",
+      "blocks": {
+        "image_tfpEJP": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 50,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Collection-Banner-Shoe_Care-1920x720_Desktop_084af552-32bb-421d-9f0a-3ce264a35b38.jpg",
+            "image_mobile": "shopify://shop_images/Collection-Banner-Shoe_Care-720x1080_Mobile_b8e28d9a-c82b-4859-b581-5c0fcd955416.jpg",
+            "parallax_direction": "left",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_tfpEJP"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "disabled": true,
+          "settings": {}
+        },
+        "subcollections": {
+          "type": "subcollections",
+          "disabled": true,
+          "settings": {
+            "subcollections_per_row": 5
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": false,
+            "per_row": 4,
+            "rows_per_page": 20,
+            "mobile_flush_grid": true
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "subcollections",
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": true,
+        "enable_swatch_labels": true,
+        "enable_sort": true
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "featured_product_iwVkAT",
+    "hero_video_PKVLtQ",
+    "slideshow_hptLMY",
+    "main-collection"
+  ]
+}

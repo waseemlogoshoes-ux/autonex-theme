@@ -1,0 +1,87 @@
+{
+  "sections": {
+    "atx_hero": {
+      "type": "autonex-stacking-hero",
+      "settings": {
+        "z_index": 10,
+        "eyebrow": "New Arrivals — Summer 2026",
+        "heading": "Crafted To Be Worn",
+        "heading_size": 64,
+        "button_label": "Shop The Collection",
+        "button_url": "/collections/all",
+        "text_align": "center",
+        "overlay_opacity": 20
+      }
+    },
+    "atx_tiles": {
+      "type": "autonex-stacking-tiles",
+      "settings": {
+        "z_index": 20,
+        "tile1_heading": "Category One",
+        "tile1_cta": "Explore",
+        "tile1_url": "/collections/all",
+        "tile2_heading": "Category Two",
+        "tile2_cta": "Discover",
+        "tile2_url": "/collections/all"
+      }
+    },
+    "atx_banner": {
+      "type": "autonex-stacking-banner",
+      "settings": {
+        "z_index": 30,
+        "text_position": "center",
+        "eyebrow": "Featured Collection",
+        "heading": "The New Classics",
+        "heading_size": 60,
+        "button_label": "Shop Now",
+        "button_url": "/collections/all",
+        "overlay_opacity": 25
+      }
+    },
+    "atx_split": {
+      "type": "autonex-stacking-split",
+      "settings": {
+        "z_index": 40,
+        "show_play": true,
+        "cell1_eyebrow": "The Process",
+        "cell1_heading": "Hand Finished",
+        "cell1_url": "/collections/all",
+        "cell2_eyebrow": "Comfort Redefined",
+        "cell2_heading": "Built For Every Day",
+        "cell2_url": "/collections/all"
+      }
+    },
+    "atx_promo": {
+      "type": "autonex-stacking-banner",
+      "settings": {
+        "z_index": 50,
+        "text_position": "left",
+        "eyebrow": "New Collection",
+        "heading": "Shop Now",
+        "heading_size": 56,
+        "button_label": "Explore",
+        "button_url": "/collections/all",
+        "overlay_opacity": 30
+      }
+    },
+    "featured_collection_main": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "New Arrivals",
+        "per_row": 4,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "atx_hero",
+    "atx_tiles",
+    "atx_banner",
+    "atx_split",
+    "atx_promo",
+    "featured_collection_main"
+  ]
+}
