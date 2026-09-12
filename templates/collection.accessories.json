@@ -1,1 +1,139 @@
-{"sections":{"collection-header":{"type":"collection-header","disabled":true,"settings":{"enable":true,"collection_image_enable":false,"parallax":true,"parallax_direction":"top"}},"slideshow_hptLMY":{"type":"slideshow","blocks":{"image_tfpEJP":{"type":"image","settings":{"top_subheading":"","title":"","title_size":50,"subheading":"","link":"","link_text":"","link_2":"","link_text_2":"","color_accent":"rgba(0,0,0,0)","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/ACCESSORIES-dsk_63d4ce44-1a33-4133-8248-1bf4a894572e.jpg","image_mobile":"shopify:\/\/shop_images\/ACCESSORIES-mbl_5ae1e5a8-fee4-4c22-8fe9-68624944f398.jpg","parallax_direction":"left","overlay_opacity":0}}},"block_order":["image_tfpEJP"],"settings":{"section_height":"natural","mobile_height":"auto","parallax":false,"style":"bars","autoplay":true,"autoplay_speed":5}},"main-collection":{"type":"main-collection","blocks":{"collection_description":{"type":"collection_description","disabled":true,"settings":{}},"subcollections":{"type":"subcollections","disabled":true,"settings":{"subcollections_per_row":5}},"product_grid":{"type":"product_grid","settings":{"enable_collection_count":false,"per_row":4,"rows_per_page":20,"mobile_flush_grid":true}}},"block_order":["collection_description","subcollections","product_grid"],"settings":{"enable_sidebar":true,"collapsed":true,"filter_style":"drawer","enable_color_swatches":true,"enable_swatch_labels":true,"enable_sort":true}}},"order":["collection-header","slideshow_hptLMY","main-collection"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": false,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    },
+    "slideshow_hptLMY": {
+      "type": "slideshow",
+      "blocks": {
+        "image_tfpEJP": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 50,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "left",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_tfpEJP"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "disabled": true,
+          "settings": {}
+        },
+        "subcollections": {
+          "type": "subcollections",
+          "disabled": true,
+          "settings": {
+            "subcollections_per_row": 5
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": false,
+            "per_row": 4,
+            "rows_per_page": 20,
+            "mobile_flush_grid": true
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "subcollections",
+        "product_grid"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": true,
+        "enable_swatch_labels": true,
+        "enable_sort": true
+      }
+    },
+    "17892533623bfac29a": {
+      "type": "apps",
+      "blocks": {
+        "autonex_bundle_builder_bundle_builder_BPyRDR": {
+          "type": "shopify://apps/autonex-bundle-builder/blocks/bundle-builder/01a097c9-6843-7531-8183-be9c5f29765c",
+          "settings": {
+            "heading": "Build your own bundle",
+            "subheading": "",
+            "collection": "automated-collection",
+            "tiers_json": "[{\"label\":\"3 items\",\"quantity\":3,\"type\":\"fixed\",\"value\":7},{\"label\":\"6 items\",\"quantity\":6,\"type\":\"fixed\",\"value\":24}]",
+            "add_button_label": "Add to bundle",
+            "new_label": "New",
+            "new_tag": "new",
+            "sold_out_label": "Sold out",
+            "summary_title": "Your bundle",
+            "pick_more_label": "Pick REMAINING_COUNT more to unlock your discount",
+            "save_label": "Save",
+            "subtotal_label": "Subtotal",
+            "cta_label": "Add bundle to cart",
+            "min_items": 2,
+            "enable_subscription": false,
+            "subscription_label": "Subscribe & save",
+            "subscription_discount": 15,
+            "one_time_label": "One-time purchase",
+            "selling_plan_group_id": ""
+          }
+        }
+      },
+      "block_order": [
+        "autonex_bundle_builder_bundle_builder_BPyRDR"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "slideshow_hptLMY",
+    "main-collection",
+    "17892533623bfac29a"
+  ]
+}
