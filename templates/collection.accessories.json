@@ -105,7 +105,7 @@
             "simple_add_mode": true,
             "add_button_label": "Add to bundle",
             "new_label": "New",
-            "new_tag": "new",
+            "new_tag": "bundela",
             "sold_out_label": "Sold out",
             "summary_title": "Your bundle",
             "pick_more_label": "Pick REMAINING_COUNT more to unlock your discount",
@@ -148,7 +148,7 @@
             "tier6_value": 0,
             "enable_subscription": false,
             "subscription_label": "Subscribe & save",
-            "subscription_discount": 0,
+            "subscription_discount": 15,
             "one_time_label": "One-time purchase",
             "selling_plan_group_id": ""
           }
