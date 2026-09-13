@@ -115,7 +115,7 @@
             "final_price_label": "Bundle price",
             "cta_label": "Add bundle to cart",
             "min_items": 2,
-            "quantity_mode": "strict",
+            "quantity_mode": "auto",
             "tier1_enabled": true,
             "tier1_label": "2 PACK",
             "tier1_quantity": 2,
