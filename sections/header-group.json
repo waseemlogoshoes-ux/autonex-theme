@@ -1,1 +1,79 @@
-{"type":"header","name":"t:sections.header-group.name","sections":{"announcement":{"type":"announcement","blocks":{"announcement_XFKqNU":{"type":"announcement","settings":{"text":"","link_text":"Orders placed until May 22 will be delivered before Eid. Orders after that will be delivered after Eid.","link":""}},"announcement-0":{"type":"announcement","disabled":true,"settings":{"text":"","link_text":"Use code \"JC10\" at checkout to get Extra 10% off via JazzCash","link":"https:\/\/www.logoofficial.com\/discount\/JC10"}},"announcement_xfEyAi":{"type":"announcement","disabled":true,"settings":{"text":"SAVE UPTO 50% + EXTRA 30% CASHBACK","link_text":"Pay via JazzCash Buy Now, Pay Later!","link":""}}},"block_order":["announcement_XFKqNU","announcement-0","announcement_xfEyAi"],"disabled":true,"settings":{"announcement_compact":true}},"header":{"type":"header","settings":{"main_menu_link_list":"new-menu","hover_menu":true,"main_menu_alignment":"center","header_style":"sticky","sticky_index":true,"sticky_collection":false,"toolbar_menu":"","toolbar_social":false,"show_currency_selector":true,"show_currency_flags":true,"show_locale_selector":true}}},"order":["announcement","header"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "t:sections.header-group.name",
+  "sections": {
+    "announcement": {
+      "type": "announcement",
+      "blocks": {
+        "announcement_XFKqNU": {
+          "type": "announcement",
+          "settings": {
+            "text": "",
+            "link_text": "Orders placed until May 22 will be delivered before Eid. Orders after that will be delivered after Eid.",
+            "link": ""
+          }
+        },
+        "announcement-0": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "link_text": "Use code \"JC10\" at checkout to get Extra 10% off via JazzCash",
+            "link": "https://www.logoofficial.com/discount/JC10"
+          }
+        },
+        "announcement_xfEyAi": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "SAVE UPTO 50% + EXTRA 30% CASHBACK",
+            "link_text": "Pay via JazzCash Buy Now, Pay Later!",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_XFKqNU",
+        "announcement-0",
+        "announcement_xfEyAi"
+      ],
+      "disabled": true,
+      "settings": {
+        "announcement_compact": true,
+        "sticky_on_scroll": true,
+        "sticky_on_mobile": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "desktop_logo_width": 200,
+        "mobile_logo_width": 120,
+        "main_menu_link_list": "main-menu",
+        "hover_menu": true,
+        "main_menu_alignment": "center",
+        "header_style": "sticky",
+        "sticky_index": true,
+        "sticky_collection": false,
+        "toolbar_menu": "",
+        "toolbar_social": false,
+        "show_currency_selector": true,
+        "show_currency_flags": true,
+        "show_locale_selector": true
+      }
+    }
+  },
+  "order": [
+    "announcement",
+    "header"
+  ]
+}
