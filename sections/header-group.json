@@ -64,7 +64,7 @@
         "header_style": "sticky",
         "sticky_index": true,
         "sticky_collection": false,
-        "toolbar_menu": "",
+        "toolbar_menu": "main-menu",
         "toolbar_social": false,
         "show_currency_selector": true,
         "show_currency_flags": true,
