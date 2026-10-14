@@ -26,7 +26,7 @@
             "color_ink": "#1b1612",
             "color_accent": "#7a4e24",
             "color_bg": "#ffffff",
-            "map_provider": "google_js",
+            "map_provider": "none",
             "google_api_key": "",
             "map_position": "right",
             "map_height": 640,
