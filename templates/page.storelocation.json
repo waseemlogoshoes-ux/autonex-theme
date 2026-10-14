@@ -1,1 +1,60 @@
-{"sections":{"main":{"type":"main-page","settings":{}},"1736950218571bf89a":{"type":"apps","blocks":{"amai_promap_storelocator_page_block_Ncg3Rb":{"type":"shopify:\/\/apps\/promap-rp\/blocks\/storelocator-page-block\/acff8fd9-34cc-4a4d-98ed-d7fdb5d3605f","settings":{}}},"block_order":["amai_promap_storelocator_page_block_Ncg3Rb"],"settings":{"full_width":false,"space_around":true}}},"order":["main","1736950218571bf89a"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1792019785017674f1": {
+      "type": "apps",
+      "blocks": {
+        "autonex_store_locator_store_locator_7my3aC": {
+          "type": "shopify://apps/autonex-store-locator/blocks/store-locator/01a13ca3-ecb5-7daf-a100-b912257b1680",
+          "settings": {
+            "heading": "Find a store",
+            "subheading": "Try on, get your size right and pick up online orders at a store near you.",
+            "palette": "espresso",
+            "color_ink": "#1B1612",
+            "color_accent": "#7A4E24",
+            "color_bg": "#F6F2EC",
+            "map_provider": "osm",
+            "google_api_key": "",
+            "map_position": "right",
+            "map_height": 640,
+            "show_search": true,
+            "show_city": true,
+            "show_brand": true,
+            "show_near_me": true,
+            "label_search": "Search city, area or mall",
+            "search_placeholder": "e.g. Gulberg, Clifton, F-7",
+            "label_near_me": "Near me",
+            "label_call": "Call",
+            "label_directions": "Directions",
+            "full_width": true,
+            "padding": 48
+          }
+        }
+      },
+      "block_order": [
+        "autonex_store_locator_store_locator_7my3aC"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1792019785017674f1"
+  ]
+}
