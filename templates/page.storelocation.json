@@ -25,7 +25,7 @@
             "palette": "custom",
             "color_ink": "#1b1612",
             "color_accent": "#7a4e24",
-            "color_bg": "#FFFFFF",
+            "color_bg": "#ffffff",
             "map_provider": "osm",
             "google_api_key": "",
             "map_position": "right",
@@ -39,7 +39,7 @@
             "label_near_me": "Near me",
             "label_call": "Call",
             "label_directions": "Directions",
-            "full_width": true,
+            "full_width": false,
             "padding": 48
           }
         }
