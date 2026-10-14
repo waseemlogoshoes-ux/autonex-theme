@@ -27,7 +27,7 @@
             "color_accent": "#7a4e24",
             "color_bg": "#ffffff",
             "map_provider": "none",
-            "google_api_key": "",
+            "google_api_key": "AIzaSyD1SHzVqaIMA6x3G9BlPhgMf_5AaHvalWA",
             "map_position": "right",
             "map_height": 640,
             "show_search": true,
