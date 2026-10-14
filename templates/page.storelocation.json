@@ -32,7 +32,7 @@
             "map_height": 820,
             "show_search": true,
             "show_city": true,
-            "show_brand": true,
+            "show_brand": false,
             "show_near_me": true,
             "label_search": "Search city, area or mall",
             "search_placeholder": "e.g. Gulberg, Clifton, F-7",
