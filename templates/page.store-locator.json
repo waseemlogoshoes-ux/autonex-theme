@@ -11,10 +11,61 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {}
+    },
+    "1793029612e5b75725": {
+      "type": "apps",
+      "blocks": {
+        "autonex_store_locator_store_locator_xaaNAF": {
+          "type": "shopify://apps/autonex-store-locator/blocks/store-locator/01a1789d-2262-7044-aea9-3bcafe9ee09f",
+          "settings": {
+            "heading": "Find a store",
+            "subheading": "Find your nearest store, check opening hours and get directions.",
+            "label_search": "Search city, area or mall",
+            "search_placeholder": "Enter a city, area or mall",
+            "label_near_me": "Near me",
+            "label_call": "Call",
+            "label_directions": "Directions",
+            "t_city": "City",
+            "t_all_cities": "All cities",
+            "t_brand": "Brand",
+            "t_all": "All",
+            "t_list": "List",
+            "t_map": "Map",
+            "t_store": "store",
+            "t_stores": "stores",
+            "t_open": "Open now",
+            "t_closed": "Closed",
+            "t_opens": "Opens",
+            "t_closed_today": "Closed today",
+            "t_today": "Today",
+            "t_all_hours": "All opening hours",
+            "t_days": "Mon,Tue,Wed,Thu,Fri,Sat,Sun",
+            "t_nearest": "nearest first",
+            "t_nearest_btn": "Nearest first",
+            "t_no_match": "No store matches your search.",
+            "t_clear": "Clear filters",
+            "t_loc_blocked": "Allow location in your browser to see the nearest store.",
+            "t_loc_fail": "Your location is not available. Search by city instead.",
+            "t_map_note": "Map unavailable. Use Directions on any store.",
+            "t_soon": "Store details are coming soon.",
+            "full_width": true,
+            "padding": 48
+          }
+        }
+      },
+      "block_order": [
+        "autonex_store_locator_store_locator_xaaNAF"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1793029612e5b75725"
   ]
 }
